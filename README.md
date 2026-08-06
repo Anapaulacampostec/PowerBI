@@ -33,3 +33,8 @@ Lista de dashboards disponíveis neste repositório:
 - 00 - Desafio - [Dashboard] (https://app.powerbi.com/reportEmbed?reportId=2bbefaeb-1979-4c1c-b9ee-e4ecd7023b11&autoAuth=true&ctid=dee74457-d751-4011-a5c4-44560cf8b415)
 - 00 - Pesquisa de Satisfação
 - 00 - Desafio 04 - Construmais Materiais
+
+- ## 🔗 Acesse os Projetos
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github)](https://github.com/Anapaulacampostec?tab=repositories)  
+[![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://app.powerbi.com/reportEmbed?reportId=2bbefaeb-1979-4c1c-b9ee-e4ecd7023b11&autoAuth=true&ctid=dee74457-d751-4011-a5c4-44560cf8b415)
