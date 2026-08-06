@@ -6,11 +6,12 @@ Bem vindos (as)! Este é um repositório onde você pode encontrar as Dashboards
 ---
 
 | Curso | Instituição | Carga Horária | Conclusão |
-|-------|-------------|----------------|------------|
+---
 |POWER BI|SENAI|60 HORAS|2026|
 |-------|-------------|----------------|------------|
 ---
 ## 📚 Projetos Nível Básico
+---
 |. 01 - Funcionários Ativos|
 |. 02 - Base Compras|
 |. 00 - Desafio 01 - Vendas|
