@@ -17,7 +17,7 @@ Em cada link está disponível uma Dashboard diferente  <!---junto com um **READ
 ## 📚 Projetos de Nível Básico
 Lista de Dashboards disponíveis neste repositório:
 
-- 01 - Funcionários Ativos
+- 01 - [Funcionários Ativos](https://app.powerbi.com/reportEmbed?reportId=8a171123-7b9d-4719-a44c-498e315ef179&autoAuth=true&ctid=dee74457-d751-4011-a5c4-44560cf8b415)
 - 02 - Base Compras
 - 00 - Desafio 01 - Vendas
 - 03 - Estoque
