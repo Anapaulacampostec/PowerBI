@@ -8,9 +8,14 @@ Em cada link está disponível uma Dashboard diferente  <!---junto com um **READ
 ---
 
 ## 🎓 Formação
-| Curso     | Instituição | Carga Horária | Conclusão |
+|   Curso   | Instituição | Carga Horária  | Conclusão  |
 |-----------|-------------|----------------|------------|
 | Power BI  | SENAI       | 60 horas       | 2026       |
+
+##
+|   Curso   | Instituição | Carga Horária  | Conclusão  |
+|-----------|-------------|----------------|------------|
+| Power BI  | DSA         | 72 horas       | 2026       |
 
 ---
 
