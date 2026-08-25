@@ -1,4 +1,4 @@
-![Em Manutenção](https://githubusercontent.com)
+
 # 📊 PowerBI EM MANUTENÇÃO 
 Repositório de Dashboards feitas em Power BI.
 
