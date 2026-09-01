@@ -33,7 +33,7 @@ Lista de Dashboards disponíveis neste repositório:
 |   Curso   | Instituição | Carga Horária  | Conclusão  |
 |-----------|-------------|----------------|------------|
 | Power BI  | DSA         | 72 horas       | 2026       |
-Certificado: https://www.linkedin.com/feed/update/urn:li:activity:7498742756601716736/
+[Certificado](https://www.linkedin.com/feed/update/urn:li:activity:7498742756601716736/)
 ---
 
 ## 📚 Projetos do Curso DSA
