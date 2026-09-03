@@ -42,19 +42,19 @@ Lista de Dashboards disponíveis neste repositório:
 ## 📚 Projetos do Curso DSA
 Lista de Dashboards disponíveis neste repositório:
 
-- 01 - [Dashboard Analítico de Vendas Globais]()
-- 02 - [Respondendo Perguntas de Negócio]()
-- 03 - [Marketing]()
-- 04 - [Comerciais]()
-- 05 - [RH]()
-- 06 - [Logisticos]()
-- 07 - [Financeiro]()
-- 08 - [Contabilidade]()
-- 09 - [Mercado de Ações]()
-- 10 - [Medidas de Posição]()
-- 11 - [Medidas de Dispersão]()
-- 12 - [Clientes]()
-- 13 - [Linguagem M]()
+- 01 - [Dashboard Analítico de Vendas Globais](n)
+- 02 - [Respondendo Perguntas de Negócio](ok)
+- 03 - [Marketing](n)
+- 04 - [Comerciais](n)
+- 05 - [RH](ok)
+- 06 - [Logisticos](ok)
+- 07 - [Financeiro](ok)
+- 08 - [Contabilidade](ok)
+- 09 - [Mercado de Ações](ok)
+- 10 - [Medidas de Posição](n)
+- 11 - [Medidas de Dispersão](n)
+- 12 - [Clientes](n)
+- 13 - [Linguagem M](n)
 
 - ## 🔗 Acesse aos demais Projetos
 
